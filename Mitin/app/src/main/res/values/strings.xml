@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mitin</string>
+    <string name="confirm_title">Confirming Your Registration</string>
+    <string name="confirm_message">We are confirming your registration</string>
+    <string name="confirm_time">This may take 2h - 12h</string>
+</resources>
